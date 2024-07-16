@@ -1,0 +1,2071 @@
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\01268.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\01324.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\01358.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\01379.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\01467.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\01492.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\01498.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\01547.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\01562.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\01589.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\01642.png :
+Detected person with confidence 0.918 at location [0.32, 19.22, 266.21, 397.06]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\01674.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\01689.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\01743.png :
+Detected person with confidence 0.904 at location [4.55, 27.15, 462.92, 790.99]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\01749.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\01763.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\01794.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\01823.png :
+Detected person with confidence 0.906 at location [1.07, 75.49, 475.78, 787.76]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\01829.png :
+Detected person with confidence 0.908 at location [89.8, 201.2, 579.84, 796.4]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\01842.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\01892.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\01926.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02146.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02193.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02315.png :
+Detected person with confidence 0.923 at location [32.76, 58.23, 777.75, 570.13]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02351.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02365.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02371.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02381.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02413.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02435.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02497.png :
+Detected person with confidence 0.915 at location [0.62, 76.1, 587.09, 793.03]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02538.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02564.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02568.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02634.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02647.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02683.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02691.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02716.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02719.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02763.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02793.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02831.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02849.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02891.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02914.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02918.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02951.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02965.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\02971.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\03148.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\03162.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\03174.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\03186.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\03241.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\03257.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\03267.png :
+Detected person with confidence 0.902 at location [157.56, 63.99, 537.34, 360.78]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\03296.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\03472.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\03524.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\03567.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\03571.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\03692.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\03751.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\03764.png :
+Detected person with confidence 0.904 at location [4.46, 37.41, 293.7, 371.29]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\03795.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\03841.png :
+Detected person with confidence 0.903 at location [364.59, 107.98, 458.31, 313.95]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\03847.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\03871.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\03984.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04126.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04157.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04185.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04257.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04287.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04298.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04317.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04321.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04326.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04372.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04536.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04563.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04583.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04597.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04619.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04638.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04689.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04712.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04726.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04735.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04758.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04769.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04786.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04823.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04851.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04925.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04938.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04958.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\04971.png :
+Detected person with confidence 0.912 at location [0.98, 72.68, 597.9, 789.29]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\05129.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\05174.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\05192.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\05239.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\05264.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\05297.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\05362.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\05376.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\05384.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\05431.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\05462.png :
+Detected person with confidence 0.932 at location [44.77, 60.49, 611.26, 796.27]
+Detected tie with confidence 0.922 at location [280.41, 456.06, 363.69, 799.55]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\05468.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\05476.png :
+Detected person with confidence 0.911 at location [76.14, 167.97, 238.63, 404.64]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\05612.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\05642.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\05649.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\05689.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\05736.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\05762.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\05768.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\05793.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\05824.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\05841.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\05864.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\05879.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\05926.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\05986.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\06123.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\06127.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\06157.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\06194.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\06213.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\06231.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\06245.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\06273.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\06278.png :
+Detected person with confidence 0.901 at location [110.16, 94.02, 285.61, 339.18]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\06315.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\06387.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\06412.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\06418.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\06458.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\06547.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\06594.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\06715.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\06725.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\06781.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\06831.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\06845.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\06871.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\06918.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\06947.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\06958.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\06985.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\07135.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\07192.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\07239.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\07319.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\07351.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\07369.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\07412.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\07429.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\07469.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\07486.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\07528.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\07623.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\07658.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\07694.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\07836.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\07931.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\07965.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\08125.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\08129.png :
+Detected person with confidence 0.915 at location [0.57, 112.0, 512.12, 682.49]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\08134.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\08219.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\08245.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\08269.png :
+Detected person with confidence 0.912 at location [1.42, 0.84, 512.39, 337.59]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\08357.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\08367.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\08372.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\08423.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\08524.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\08539.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\08591.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\08597.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\08621.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\08627.png :
+Detected person with confidence 0.9 at location [53.67, 67.01, 750.35, 528.78]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\08637.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\08671.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\08691.png :
+Detected person with confidence 0.926 at location [0.84, 44.3, 303.38, 396.27]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\08742.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\08925.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\08962.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09128.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09156.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09174.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09213.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09248.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09256.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09284.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09286.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09324.png :
+Detected person with confidence 0.913 at location [133.85, 43.96, 456.3, 363.84]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09347.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09364.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09384.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09457.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09514.png :
+Detected person with confidence 0.931 at location [120.26, 57.75, 750.68, 536.08]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09547.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09563.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09578.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09615.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09618.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09624.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09641.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09657.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09713.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09723.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09781.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09786.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09814.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09825.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\09831.png :
+Detected person with confidence 0.923 at location [0.89, 22.0, 550.41, 463.43]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10236.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10256.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10278.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10285.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10357.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10362.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10425.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10458.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10462.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10482.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10486.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10492.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10538.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10548.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10649.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10653.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10673.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10746.png :
+Detected person with confidence 0.923 at location [1.05, 102.69, 480.45, 736.62]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10786.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10792.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10794.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10857.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10867.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10896.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10932.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10936.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10947.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10962.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10965.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10976.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\10985.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\12067.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\12074.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\12094.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\12356.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\12367.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\12389.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\12396.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\12453.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\12468.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\12534.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\12560.png :
+Detected person with confidence 0.904 at location [0.65, 36.94, 512.53, 734.02]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\12589.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\12597.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\12657.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\12684.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\12694.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\12736.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\12768.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\12793.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\12834.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\12837.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\12876.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\12894.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\12930.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\12958.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\12973.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\12983.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13078.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13207.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13249.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13285.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13289.png :
+Detected person with confidence 0.921 at location [36.85, 120.82, 489.6, 793.01]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13457.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13459.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13470.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13482.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13528.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13574.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13579.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13590.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13649.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13672.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13675.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13695.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13702.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13720.png :
+Detected person with confidence 0.915 at location [0.39, 47.81, 303.19, 396.98]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13748.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13795.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13809.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13857.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13876.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13902.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13907.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13924.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13947.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13964.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13970.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13976.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\13986.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\14067.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\14072.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\14078.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\14260.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\14276.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\14362.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\14375.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\14379.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\14530.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\14573.png :
+Detected airplane with confidence 0.903 at location [232.82, 267.09, 544.32, 354.68]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\14580.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\14583.png :
+Detected person with confidence 0.926 at location [174.72, 91.78, 737.77, 546.83]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\14620.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\14652.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\14679.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\14695.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\14782.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\14802.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\14879.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\14896.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\14908.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\14950.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\14968.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\15023.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\15064.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\15203.png :
+Detected person with confidence 0.911 at location [0.82, 40.35, 533.04, 792.25]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\15280.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\15302.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\15308.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\15324.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\15328.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\15387.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\15407.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\15420.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\15478.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\15603.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\15630.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\15674.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\15723.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\15809.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\15824.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\15846.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\15906.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\15920.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\15932.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\15937.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\15964.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16029.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16035.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16047.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16072.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16082.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16240.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16254.png :
+Detected person with confidence 0.906 at location [165.64, 52.4, 374.56, 736.43]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16275.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16320.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16348.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16370.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16380.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16405.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16409.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16452.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16459.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16480.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16529.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16537.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16539.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16598.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16704.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16723.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16735.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16783.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16785.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16832.png :
+Detected person with confidence 0.906 at location [0.68, 34.19, 533.04, 790.12]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16843.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16849.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16895.png :
+Detected person with confidence 0.904 at location [11.84, 14.58, 272.87, 396.3]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16923.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16927.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16948.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\16954.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17028.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17034.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17045.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17054.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17062.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17086.png :
+Detected person with confidence 0.935 at location [27.9, 120.13, 531.62, 680.39]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17246.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17253.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17290.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17324.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17340.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17392.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17405.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17462.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17524.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17539.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17594.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17624.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17653.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17682.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17809.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17834.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17850.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17853.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17892.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17904.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17935.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\17948.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18043.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18059.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18094.png :
+Detected person with confidence 0.912 at location [0.24, 0.06, 266.13, 398.51]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18234.png :
+Detected person with confidence 0.916 at location [48.16, 34.25, 407.07, 565.34]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18236.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18246.png :
+Detected person with confidence 0.927 at location [255.22, 138.67, 543.93, 501.35]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18254.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18267.png :
+Detected person with confidence 0.914 at location [265.11, 23.21, 457.4, 362.97]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18274.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18350.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18394.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18406.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18432.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18452.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18506.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18526.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18532.png :
+Detected person with confidence 0.9 at location [247.33, 75.17, 548.25, 371.88]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18562.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18603.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18693.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18704.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18764.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18795.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18935.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18940.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18943.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18960.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\18965.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19065.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19074.png :
+Detected person with confidence 0.92 at location [5.24, 34.5, 294.62, 398.74]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19206.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19247.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19253.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19264.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19302.png :
+Detected person with confidence 0.921 at location [22.15, 39.63, 781.58, 796.58]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19345.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19364.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19370.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19420.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19426.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19472.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19502.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19526.png :
+Detected person with confidence 0.907 at location [0.79, 123.64, 542.76, 791.51]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19532.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19537.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19586.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19634.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19637.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19647.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19653.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19672.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19682.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19742.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19780.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19824.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19834.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19845.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\19875.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\20146.png :
+Detected person with confidence 0.927 at location [40.45, 47.62, 672.1, 527.07]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\20195.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\20318.png :
+Detected person with confidence 0.901 at location [462.16, 129.24, 635.08, 451.65]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\20348.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\20374.png :
+Detected person with confidence 0.926 at location [0.5, 37.17, 266.0, 396.9]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\20473.png :
+Detected person with confidence 0.901 at location [0.3, 15.24, 266.04, 395.28]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\20567.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\20615.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\20619.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\20653.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\20679.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\20715.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\20736.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\20739.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\20759.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\20781.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\20791.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\20836.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\20846.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\20867.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\20913.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\20918.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\20948.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\20956.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\21036.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\21038.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\21047.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\21064.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\21083.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\21089.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\21305.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\21349.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\21380.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\21386.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\21394.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\21504.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\21548.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\21567.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\21589.png :
+Detected person with confidence 0.904 at location [338.68, 98.08, 505.31, 287.53]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\21605.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\21647.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\21654.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\21730.png :
+Detected person with confidence 0.921 at location [1.12, 52.86, 533.44, 790.43]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\21748.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\21769.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\21850.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\21859.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\21950.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\21978.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\23048.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\23056.png :
+Detected person with confidence 0.935 at location [13.5, 10.09, 503.96, 334.99]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\23087.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\23150.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\23164.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\23178.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\23450.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\23476.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\23519.png :
+Detected person with confidence 0.916 at location [61.14, 30.33, 487.2, 793.58]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\23690.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\23706.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\23760.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\23794.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\23807.png :
+Detected person with confidence 0.913 at location [0.7, 77.99, 532.11, 793.27]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\23815.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\23876.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\23908.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\23961.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\24051.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\24098.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\24109.png :
+Detected person with confidence 0.946 at location [19.35, 14.2, 813.63, 541.5]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\24135.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\24160.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\24165.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\24319.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\24360.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\24398.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\24537.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\24560.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\24569.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\24573.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\24579.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\24630.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\24650.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\24698.png :
+Detected person with confidence 0.917 at location [64.73, 41.4, 526.55, 361.49]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\24716.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\24769.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\24783.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\24798.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\24857.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\24865.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\24918.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\24958.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\24971.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\24986.png :
+Detected person with confidence 0.919 at location [616.67, 253.5, 697.83, 445.84]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\25017.png :
+Detected person with confidence 0.907 at location [473.16, 155.56, 695.96, 510.67]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\25067.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\25093.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\25107.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\25164.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\25178.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\25314.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\25367.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\25369.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\25376.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\25413.png :
+Detected person with confidence 0.931 at location [110.8, 97.97, 196.14, 317.91]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\25436.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\25463.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\25478.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\25610.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\25634.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\25683.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\25709.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\25716.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\25739.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\25837.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\25908.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\25914.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\26013.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\26073.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\26087.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\26138.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\26149.png :
+Detected person with confidence 0.918 at location [324.97, 132.53, 514.82, 437.96]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\26159.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\26183.png :
+Detected person with confidence 0.902 at location [6.38, 30.15, 266.55, 397.36]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\26198.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\26307.png :
+Detected person with confidence 0.929 at location [7.83, 24.6, 493.85, 722.33]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\26315.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\26319.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\26357.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\26370.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\26381.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\26394.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\26417.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\26453.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\26709.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\26754.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\26781.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\26839.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\26891.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\26910.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\26940.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\26985.png :
+Detected person with confidence 0.94 at location [376.73, 86.27, 669.62, 495.89]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\27041.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\27180.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\27309.png :
+Detected person with confidence 0.926 at location [1.04, 31.76, 532.26, 791.26]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\27318.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\27365.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\27385.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\27395.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\27401.png :
+Detected person with confidence 0.901 at location [243.71, 15.27, 461.05, 361.92]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\27430.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\27501.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\27506.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\27519.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\27580.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\27603.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\27605.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\27634.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\27654.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\27843.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\27849.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\27861.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\27943.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\27958.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\27961.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\27981.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\28043.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\28051.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\28059.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\28076.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\28097.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\28160.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\28315.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\28319.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\28364.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\28374.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\28394.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\28405.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\28435.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\28450.png :
+Detected person with confidence 0.917 at location [242.54, 168.82, 435.7, 426.14]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\28476.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\28491.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\28504.png :
+Detected person with confidence 0.905 at location [54.2, 33.35, 488.29, 362.6]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\28605.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\28613.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\28639.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\28716.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\28764.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\28790.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\28793.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\28935.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\28970.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29015.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29043.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29067.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29073.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29104.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29140.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29150.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29173.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29187.png :
+Detected person with confidence 0.901 at location [0.63, 46.28, 512.49, 732.98]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29308.png :
+Detected person with confidence 0.905 at location [0.42, 72.99, 310.38, 400.43]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29348.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29380.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29385.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29437.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29460.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29465.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29481.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29485.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29508.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29517.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29548.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29576.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29587.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29608.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29643.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29703.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29708.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29714.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29731.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29764.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29786.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29814.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\29873.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\30124.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\30156.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\30185.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\30249.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\30261.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\30267.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\30289.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\30296.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\30417.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\30428.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\30456.png :
+Detected person with confidence 0.918 at location [0.47, 61.25, 520.71, 729.64]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\30478.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\30486.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\30489.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\30547.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\30597.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\30652.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\30714.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\30745.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\30782.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\30792.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\30815.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\30829.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\30847.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\30864.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\30961.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31025.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31076.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31085.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31094.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31096.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31204.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31267.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31285.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31295.png :
+Detected person with confidence 0.902 at location [1.28, 52.31, 554.13, 784.12]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31426.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31472.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31508.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31526.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31549.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31587.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31592.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31602.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31624.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31645.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31657.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31678.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31695.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31705.png :
+Detected person with confidence 0.929 at location [37.69, 48.71, 513.36, 670.01]
+Detected tie with confidence 0.912 at location [235.64, 383.16, 305.28, 671.4]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31729.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31748.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31769.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31786.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31897.png :
+Detected person with confidence 0.928 at location [46.19, 40.43, 741.47, 527.6]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31905.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31928.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\31957.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\32015.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\32046.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\32051.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\32081.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\32091.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\32140.png :
+Detected tie with confidence 0.912 at location [316.05, 375.77, 411.65, 633.01]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\32149.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\32409.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\32480.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\32490.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\32507.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\32516.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\32579.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\32690.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\32704.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\32785.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\32795.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\32798.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\32809.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\32849.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\32856.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\32867.png :
+Detected person with confidence 0.905 at location [130.86, 0.24, 822.62, 544.93]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\32876.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\32947.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\32957.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\32985.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34057.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34065.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34075.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34078.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34081.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34092.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34096.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34109.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34129.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34165.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34207.png :
+Detected person with confidence 0.912 at location [0.96, 33.76, 555.27, 783.65]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34209.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34216.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34218.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34261.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34275.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34502.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34510.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34519.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34527.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34658.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34675.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34685.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34751.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34762.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34786.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34795.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34815.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34862.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34910.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34927.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34952.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\34970.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\35068.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\35079.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\35084.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\35096.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\35107.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\35168.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\35174.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\35182.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\35210.png :
+Detected person with confidence 0.918 at location [0.93, 31.51, 555.37, 789.09]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\35217.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\35264.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\35460.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\35480.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\35487.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\35618.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\35627.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\35678.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\35680.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\35691.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\35701.png :
+Detected person with confidence 0.908 at location [0.31, 23.58, 266.21, 397.17]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\35708.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\35716.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\35768.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\35786.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\35894.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\35964.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36019.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36025.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36028.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36047.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36054.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36072.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36128.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36174.png :
+Detected person with confidence 0.906 at location [157.81, 34.81, 415.4, 361.13]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36195.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36198.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36204.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36240.png :
+Detected person with confidence 0.918 at location [0.74, 40.54, 579.78, 792.88]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36401.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36421.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36450.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36498.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36589.png :
+Detected dog with confidence 0.904 at location [219.9, 81.52, 351.65, 297.69]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36592.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36710.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36724.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36729.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36780.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36789.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36840.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36845.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36852.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36892.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36897.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36947.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36957.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36972.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\36980.png :
+Detected person with confidence 0.905 at location [162.15, 54.21, 420.51, 360.69]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37024.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37049.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37091.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37105.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37254.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37261.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37289.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37298.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37426.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37465.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37502.png :
+Detected person with confidence 0.904 at location [176.17, 50.75, 681.95, 664.28]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37542.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37609.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37620.png :
+Detected person with confidence 0.913 at location [48.11, 56.89, 522.24, 534.9]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37628.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37640.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37649.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37802.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37814.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37824.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37829.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37854.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37895.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37902.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37912.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37916.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37921.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37948.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37951.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37965.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\37984.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\38029.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\38057.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\38094.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\38129.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\38157.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\38215.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\38251.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\38297.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\38410.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\38465.png :
+Detected person with confidence 0.903 at location [0.71, 81.4, 530.36, 788.53]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\38524.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\38547.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\38621.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\38641.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\38652.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\38674.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\38697.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\38702.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\38706.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\38714.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\38724.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\38907.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\38917.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\38927.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\38954.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\38965.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\39012.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\39028.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\39051.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\39056.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\39085.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\39106.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\39120.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\39201.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\39214.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\39241.png :
+Detected person with confidence 0.907 at location [0.81, 79.53, 559.08, 790.37]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\39280.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\39405.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\39425.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\39428.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\39456.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\39475.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\39482.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\39524.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\39527.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\39542.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\39560.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\39601.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\39640.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\39725.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\39762.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\39826.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\39842.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\40127.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\40137.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\40158.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\40182.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\40257.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\40315.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\40329.png :
+Detected person with confidence 0.917 at location [135.97, 43.85, 452.76, 363.26]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\40375.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\40529.png :
+Detected person with confidence 0.915 at location [162.4, 41.21, 666.48, 543.83]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\40587.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\40629.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\40718.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\40735.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\40756.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\40821.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\40829.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\40837.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\40857.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\40913.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\40927.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\40982.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\41037.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\41058.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\41068.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\41206.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\41208.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\41237.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\41263.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\41268.png :
+Detected person with confidence 0.933 at location [0.3, 43.55, 260.27, 398.3]
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\41270.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\41308.png :
+
+Image - C:\Users\rohit\Desktop\hate\hateful_memes\img\train\hateful\41328.png :
+

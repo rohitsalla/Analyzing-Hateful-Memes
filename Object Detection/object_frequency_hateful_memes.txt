@@ -1,0 +1,79 @@
+chair: 7444
+bird: 10306
+clock: 4588
+person: 67726
+tie: 11919
+backpack: 2863
+book: 8431
+cell phone: 6110
+dining table: 3386
+handbag: 3651
+remote: 1100
+tv: 3529
+refrigerator: 893
+bed: 4027
+stop sign: 761
+car: 3640
+bench: 4309
+skateboard: 883
+umbrella: 2115
+tennis racket: 731
+sports ball: 1739
+cup: 778
+scissors: 1216
+kite: 1506
+traffic light: 1023
+fire hydrant: 52
+bicycle: 287
+mouse: 67
+laptop: 403
+keyboard: 116
+potted plant: 1420
+bottle: 1299
+couch: 1035
+spoon: 665
+sink: 764
+bowl: 646
+hair drier: 112
+oven: 657
+vase: 383
+toilet: 213
+fork: 220
+broccoli: 234
+sandwich: 183
+wine glass: 159
+donut: 662
+baseball glove: 591
+knife: 320
+pizza: 59
+apple: 433
+sheep: 1621
+carrot: 226
+baseball bat: 956
+train: 692
+cow: 1690
+dog: 998
+bear: 1268
+teddy bear: 861
+zebra: 204
+horse: 502
+truck: 636
+parking meter: 130
+boat: 574
+skis: 251
+motorcycle: 372
+snowboard: 65
+suitcase: 320
+cat: 375
+cake: 435
+bus: 178
+surfboard: 482
+frisbee: 278
+airplane: 206
+orange: 67
+hot dog: 162
+microwave: 36
+elephant: 292
+banana: 440
+toaster: 4
+giraffe: 25
