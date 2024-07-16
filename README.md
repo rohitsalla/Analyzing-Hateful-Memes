@@ -18,8 +18,7 @@ All code and outputs related to this task are in the [Caption Impact Assessment]
 **NOTE:** The [notebook](Caption%20Impact%20Assessment/Object%20Detection%20and%20Caption%20Impact%20Assessment/objectDetectionWithoutText.ipynb) demonstrates the model's results by running on dataset hateful memes. The output can be viewed [here](https://drive.google.com/drive/folders/1566nRO_lwdV5OJ0o7a6Xgls_9Yq4a6Ca?usp=drive_link).
 
 ### Subtask 3: Classification System Development
-All code and outputs related to this task can be found in the [Classification System Development](Classification%20System%20Development) folder.
-
+All code and outputs related to this task can be found in the [Classification System Development](Classification) folder. Output is at   (https://drive.google.com/drive/folders/1wlj37Wl1EjOq4utz9y8im295cvvQE6k2?usp=drive_link)
 ## Bonus Task
 All code and outputs related to this task are in the [Bonus Task](Bonus%20Task) folder.
 
