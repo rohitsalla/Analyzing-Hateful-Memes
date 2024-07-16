@@ -20,7 +20,7 @@ All code and outputs related to this task are in the [Caption Impact Assessment]
 ### Subtask 3: Classification System Development
 All code and outputs related to this task can be found in the [Classification System Development](Classification) folder. Output is at   (https://drive.google.com/drive/folders/1wlj37Wl1EjOq4utz9y8im295cvvQE6k2?usp=drive_link)
 ## Bonus Task
-All code and outputs related to this task are in the [Bonus Task](Bonus%20) folder.
+All code and outputs related to this task are in the [Bonus Task](Bonus) folder.
 
 ## Paper Reading Task
 The PDF report for the paper reading task can be found [here]([Reading_Task_Report.pdf](https://github.com/rohitsalla/Analyzing-Hateful-Memes/blob/main/research%20paper%20report.pdf)).
