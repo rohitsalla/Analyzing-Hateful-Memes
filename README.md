@@ -7,8 +7,6 @@ This repository leverages various computer vision techniques to both qualitative
 ## How to Run
 The codebase is organized into folders corresponding to each subtask of the main project.
 
-**IMPORTANT:** Before starting, download the dataset from this [Google Drive link](https://drive.google.com/drive/folders/1rdxxt48MBHTHIkINuIVXeGYEFFqqrP6p?usp=drive_link) and extract it into the main folder. You can use your own dataset, but ensure it follows the same directory structure as provided.
-
 ## Subtasks
 
 ### Subtask 1: Object Detection
