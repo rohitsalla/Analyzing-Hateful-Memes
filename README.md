@@ -4,6 +4,8 @@
 ## Summary
 This repository leverages various computer vision techniques to both qualitatively and quantitatively analyze hateful memes. The project explores patterns, context, and visual cues that influence our perception of memes. It also highlights the challenges in determining whether a meme is hateful.
 
+Dataset : (https://drive.google.com/drive/folders/17TD3LtVbZi7wmmrNpct8np1PCAutQn1L?usp=drive_link)
+
 ## How to Run
 The codebase is organized into folders corresponding to each subtask of the main project.
 
